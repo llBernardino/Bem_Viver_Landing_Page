@@ -1,0 +1,16 @@
+.limite{
+    margin: 0px auto;
+    max-width: 1290px;
+    width: 100%;
+    padding: 0px 15px;   
+}
+.imagemeFooter{
+    padding-top: 45px;
+    display: flex;
+    width: 100%;
+}
+.imagemDadireita_1{
+
+    justify-content: center;
+}
+
