@@ -20,7 +20,7 @@ Aplicação simulando um site de Apresentação de uma empresa de <strong>Condom
 <br>
 <br>
 <p align = "center">
-  <img src ="imagens/bem.jpeg" alt = "bem"/>
+  <img src ="Imagens/bem.jpeg" alt = "bem"/>
 </p>
 <br>
 
