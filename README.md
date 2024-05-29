@@ -48,7 +48,7 @@ Entre em contato através dos links a seguir!
 
 <a href = "mailto:cauaberrnardinolima@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-<a href="https://api.whatsapp.com/send?phone=+5585999361168" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="[https://api.whatsapp.com/send?phone=+5585999361168](https://api.whatsapp.com/send?phone=+5585999361168)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
 <br>
